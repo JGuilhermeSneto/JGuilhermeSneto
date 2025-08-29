@@ -1,27 +1,44 @@
 <p align="center">
-  <img src="assets/BAnner.gif" alt="Banner pixel art 1" width="100%"/>
+  <img src="assets/BAnner.gif" alt="Banner pixel art principal" width="100%"/>
 </p>
 
 <h1 align="center">👾 José Guilherme (JGuilhermeSneto) | Full Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=16FBFF&center=true&vCenter=true&width=900&lines=Press+Start+to+Code;Java+%7C+Python+%7C+C%23+%7C+Django;Backend+%2B+Frontend+%2B+Cloud;Always+Leveling+Up!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=16FBFF&center=true&vCenter=true&width=900&lines=Press+Start+to+Code;Python+%7C+Java+%7C+C%23+%7C+Django;Backend+%2B+Frontend+%2B+Cloud;Always+Leveling+Up!"/>
 </p>
 
 ---
 
 ## 🎮 Sobre Mim
 
-* 👨‍💻 **Nome:** José Guilherme da S. Neto ( **JGuilhermeSneto**)  
-* 🏫 **Formação:** Aluno do IFRN – Campus Canguaretama  
-* 🚀 Sempre evoluindo em **Clean Code**, **Arquitetura de Software** e **DevOps**
+* 🧑‍💻 **Nome:** José Guilherme da S. Neto (aka **JGuilhermeSneto**)  
+* 🏫 **Formação:** IFRN – Campus Canguaretama  
+* ⚡ **Classe:** Desenvolvedor **Full Stack**  
+* 🚀 **XP Atual:** Arquitetura de Software · Clean Code · DevOps  
+* 💡 **Curiosidade:** apaixonado por **otimização de código** e estilo retrô/arcade 🎮  
+
+---
+
+## 🦫 Mascote do Perfil
+
+<p align="center">
+  <img src="assets/Gif_capibara.jpg" alt="Capivara pixel art — mascote do perfil" width="220"/>
+</p>
 
 ---
 
 ## ⚡ Power-Ups (Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,csharp,django,html,css,js,git,github&perline=14" alt="Ícones de tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=python,java,csharp,cpp,javascript,html,css,django,mysql,tailwind,bootstrap,git,github,vscode,linux&perline=14" alt="Ícones de tecnologias"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance-ON-39ff14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-%E2%9C%85-222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Secure%20by%20Design-%F0%9F%94%92-0e76a8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%93%9A-444?style=for-the-badge"/>
 </p>
 
 ---
@@ -31,7 +48,7 @@
 - [x] Backend com Python (Django)  
 - [ ] Clean Code + Boas Práticas de Arquitetura  
 - [ ] DevOps: CI/CD, Docker e GitHub Actions  
-- [ ] Cloud Deployment (AWS ou similar)
+- [ ] Cloud Deployment (AWS / GCP / Azure)  
 
 ---
 
@@ -45,27 +62,62 @@
 
 ---
 
+## 📊 Scoreboard (Estatísticas)
+
 <p align="center">
-  <img src="assets/Banner2.gif" alt="Banner pixel art 2" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeSneto&theme=tokyonight&layout=compact&langs_count=10" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JGuilhermeSneto&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JGuilhermeSneto&theme=tokyonight&row=1&column=7"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGuilhermeSneto&theme=tokyo-night" alt="Gráfico de atividade"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="assets/Banner3.gif" alt="Banner pixel art 3" width="90%"/>
-</p>
-
----
-
-## 📞 Contato
+## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://github.com/JGuilhermeSneto" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU-EMAIL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JGuilhermeSneto" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://SEU-PORTFOLIO.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0E76A8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
+---
+
+## 🎞️ Banners Extras
+
+<details>
+  <summary>Trocar o visual (pixel art)</summary>
+  <p align="center">
+    <img src="assets/Banner2.gif" alt="Banner alternativo 1" width="100%"/>
+    <img src="assets/Banner3.gif" alt="Banner alternativo 2" width="100%"/>
+  </p>
+</details>
+
+---
 
 <p align="center">
-  <img src="assets/GIF.gif" alt="Snake game retro terminal" width="70%"/>
+  <img src="assets/GIF.gif" alt="Snake game retro terminal" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=INSERT+COIN+TO+CONTINUE...;TRANSFORMANDO+CODIGO+EM+SOLUCOES+REAIS"/>
 </p>
