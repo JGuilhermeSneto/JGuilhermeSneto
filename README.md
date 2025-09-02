@@ -2,7 +2,7 @@
   <img src="assets/BAnner.gif" alt="Banner pixel art principal" width="100%"/>
 </p>
 
-<h1 align="center">👾 **José Guilherme** | **Full Stack Developer**</h1>
+<h1 align="center">👾 José Guilherme | Full Stack Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=16FBFF&center=true&vCenter=true&width=900&lines=Press+Start+to+Code;Python+%7C+Java+%7C+C%23+%7C+Django;Backend+%2B+Frontend+%2B+Cloud;Always+Leveling+Up!"/>
