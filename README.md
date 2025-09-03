@@ -12,7 +12,7 @@
 
 ## 🎮 Sobre Mim
 
-* 🧑‍💻 **Nome:** José Guilherme da S. Neto (aka **JGuilhermeSneto**)  
+* 🧑‍💻 **Nome:** José Guilherme da S. Neto 
 * 🏫 **Formação:** IFRN – Campus Canguaretama  
 * ⚡ **Classe:** Desenvolvedor **Full Stack**  
 * 🚀 **XP Atual:** Arquitetura de Software · Clean Code · DevOps  
