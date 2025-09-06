@@ -15,12 +15,11 @@
 * 🧑‍💻 **Nome:** José Guilherme da S. Neto 
 * 🏫 **Formação:** IFRN – Campus Canguaretama  
 * ⚡ **Classe:** Desenvolvedor **Full Stack**  
-* 🚀 **XP Atual:** Arquitetura de Software · Clean Code · DevOps  
-* 💡 **Curiosidade:** apaixonado por **otimização de código** e estilo retrô/arcade 🎮  
+
 
 ---
 
-## 🦫 Mascote do Perfil
+## 🦫
 
 <p align="center">
   <img src="assets/Gif_capibara.jpg" alt="Capivara pixel art — mascote do perfil" width="220"/>
@@ -43,26 +42,17 @@
 
 ---
 
-## 🗺️ Roadmap de Evolução
-- [x] Programação em Java e POO sólida  
-- [x] Backend com Python (Django)  
-- [ ] Clean Code + Boas Práticas de Arquitetura  
-- [ ] DevOps: CI/CD, Docker e GitHub Actions  
-- [ ] Cloud Deployment (AWS / GCP / Azure)  
-
----
-
 ## 📂 Repositórios em Destaque
 
 | Projeto               | Descrição                                      |
 |-----------------------|------------------------------------------------|
 | **Repo_Java**         | Exercícios e estudos em Java                   |
 | **BibliotecaPessoal** | Sistema de biblioteca em Python                |
-| **BootCamp_C-**       | Projetos desenvolvidos em C# e .NET            |
+| **BootCamp_C#**       | Projetos desenvolvidos em C# e .NET            |
 
 ---
 
-## 📊 Scoreboard (Estatísticas)
+## 📊 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="160"/>
