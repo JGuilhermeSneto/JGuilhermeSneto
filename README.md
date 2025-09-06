@@ -98,6 +98,4 @@
   <img src="assets/GIF.gif" alt="Snake game retro terminal" width="80%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=INSERT+COIN+TO+CONTINUE...;TRANSFORMANDO+CODIGO+EM+SOLUCOES+REAIS"/>
-</p>
+
