@@ -14,7 +14,7 @@
 
 * 🧑‍💻 **Nome:** José Guilherme da S. Neto 
 * 🏫 **Formação:** IFRN – Campus Canguaretama  
-* ⚡ **Classe:** Desenvolvedor **Full Stack**  
+* ⚡ **Stack:** Desenvolvedor **Full Stack**  
 
 
 ---
@@ -27,7 +27,7 @@
 
 ---
 
-## ⚡ Power-Ups (Stack)
+## ⚡ Power-Ups (Lingugen, frameworks, SQL)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,csharp,cpp,javascript,html,css,django,mysql,tailwind,bootstrap,git,github,vscode,linux&perline=14" alt="Ícones de tecnologias"/>
