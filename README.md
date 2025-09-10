@@ -25,7 +25,6 @@
 </p>
 
 ---
-## 💻 Technologies & Skills
 
 ## 💻 Technologies & Skills
 
@@ -60,6 +59,7 @@
   </tr>
 </table>
 
+---
 
 
 
