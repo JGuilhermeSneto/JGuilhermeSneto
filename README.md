@@ -48,7 +48,7 @@
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/><br>SQLite</td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="assets/java-icon.svg" width="50"/><br>Java</td>
+    <td align="center" width="100"><img src="assets/icon-java.gif" width="50"/><br>Java</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><br>C#</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/><br>.NET</td>
