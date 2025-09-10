@@ -50,7 +50,7 @@
   <tr>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><br>C#</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" /><br>C#<td/>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/><br>.NET</td>
   </tr>
   <tr>
