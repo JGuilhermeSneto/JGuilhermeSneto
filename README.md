@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/><br>Django</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+    <td align="center" width="100">  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>Github<td/>
     <td align="center" width="100"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50"/><br>Git</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5</td>
   </tr>
