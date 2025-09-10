@@ -48,7 +48,7 @@
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/><br>SQLite</td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="assets/icon-java.gif" width="50"/><br>Java</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><br>C#</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/><br>.NET</td>
@@ -56,12 +56,12 @@
   <tr>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/><br>Spring Boot</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/><br>Docker</td>
+
   </tr>
 </table>
 
 ---
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Performance-ON-39ff14?style=for-the-badge"/>
@@ -75,10 +75,10 @@
 ## 📂 Repositórios em Destaque
 
 | Projeto               | Descrição                                      |
-|-----------------------|------------------------------------------------|
-| **Repo_Java**         | Exercícios e estudos em Java                   |
-| **BibliotecaPessoal** | Sistema de biblioteca em Python                |
-| **BootCamp_C#**       | Projetos desenvolvidos em C# e .NET           |
+|-----------------------|-----------------------------------------------|
+| **Repo_Java**         | Exercícios e estudos em Java                 |
+| **BibliotecaPessoal** | Sistema de biblioteca em Python              |
+| **BootCamp_C#**       | Projetos desenvolvidos em C# e .NET          |
 
 ---
 
