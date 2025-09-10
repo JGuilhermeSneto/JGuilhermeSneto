@@ -12,9 +12,9 @@
 
 ## 🎮 Sobre Mim
 
-* 🧑‍💻 **Nome:** José Guilherme da S. Neto 
-* 🏫 **Formação:** IFRN – Campus Canguaretama  
-* ⚡ **Stack:** Desenvolvedor **Full Stack**  
+- 🧑‍💻 **Nome:** José Guilherme da S. Neto  
+- 🏫 **Formação:** IFRN – Campus Canguaretama  
+- ⚡ **Stack:** Desenvolvedor **Full Stack**
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 💻 Technologies & Skills
 
-<table align="center" style="margin-bottom: 50px;">
+<table align="center">
   <tr>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript</td>
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/><br>Django</td>
-    <td align="center" width="100">  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>Github<td/>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/><br>GitHub</td>
     <td align="center" width="100"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50"/><br>Git</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5</td>
   </tr>
@@ -48,16 +48,15 @@
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/><br>SQLite</td>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/><br>Java</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
-    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" /><br>C#<td/>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/><br>C#</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/><br>.NET</td>
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/><br>Spring Boot</td>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/><br>Docker</td>
-
   </tr>
 </table>
 
@@ -106,16 +105,16 @@
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU-EMAIL" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:SEU-EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/JGuilhermeSneto" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/JGuilhermeSneto" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://SEU-PORTFOLIO.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://SEU-PORTFOLIO.com" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-0E76A8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
