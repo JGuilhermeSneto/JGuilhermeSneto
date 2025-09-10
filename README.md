@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Technologies & Skills
+## 💻 
 
 <table align="center">
   <tr>
