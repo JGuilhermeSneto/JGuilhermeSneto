@@ -16,22 +16,52 @@
 * 🏫 **Formação:** IFRN – Campus Canguaretama  
 * ⚡ **Stack:** Desenvolvedor **Full Stack**  
 
-
 ---
 
-## 🦫
+## 🦫 Mascote
 
 <p align="center">
   <img src="assets/Gif_capibara.jpg" alt="Capivara pixel art — mascote do perfil" width="220"/>
 </p>
 
 ---
+## 💻 Technologies & Skills
 
-## ⚡ Power-Ups (Lingugen, frameworks, SQL)
+## 💻 Technologies & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,csharp,cpp,javascript,html,css,django,mysql,tailwind,bootstrap,git,github,vscode,linux&perline=14" alt="Ícones de tecnologias"/>
-</p>
+<table align="center" style="margin-bottom: 50px;">
+  <tr>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/><br>C++</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/><br>Django</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+    <td align="center" width="100"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50"/><br>Git</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VSCode</td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/><br>SQLite</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><br>C#</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/><br>.NET</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/><br>Spring Boot</td>
+  </tr>
+</table>
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Performance-ON-39ff14?style=for-the-badge"/>
@@ -48,11 +78,11 @@
 |-----------------------|------------------------------------------------|
 | **Repo_Java**         | Exercícios e estudos em Java                   |
 | **BibliotecaPessoal** | Sistema de biblioteca em Python                |
-| **BootCamp_C#**       | Projetos desenvolvidos em C# e .NET            |
+| **BootCamp_C#**       | Projetos desenvolvidos em C# e .NET           |
 
 ---
 
-## 📊 
+## 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="160"/>
@@ -92,10 +122,6 @@
 
 ---
 
----
-
 <p align="center">
   <img src="assets/GIF.gif" alt="Snake game retro terminal" width="80%"/>
 </p>
-
-
