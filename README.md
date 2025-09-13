@@ -18,7 +18,7 @@
 
 ---
 
-## 🦫 Mascote
+##
 
 <p align="center">
   <img src="assets/Gif_capibara.jpg" alt="Capivara pixel art — mascote do perfil" width="220"/>
