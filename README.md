@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 
+## 💻 **Skills**
 
 <table align="center">
   <tr>
