@@ -78,7 +78,7 @@
 | **Repo_Java**         | Exercícios e estudos em Java                 |
 | **BibliotecaPessoal** | Sistema de biblioteca em Python              |
 | **BootCamp_C#**       | Projetos desenvolvidos em C# e .NET          |
-
+| **Projeto integrador** | Projeto integrador do 4° périodo             |
 ---
 
 
