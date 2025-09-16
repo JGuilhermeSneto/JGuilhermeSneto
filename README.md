@@ -83,22 +83,25 @@
 
 ## 📊 Estatísticas
 
+## 📊 Estatísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeSneto&theme=tokyonight&layout=compact&langs_count=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="160" alt="Estatísticas GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeSneto&theme=tokyonight&layout=compact&langs_count=10" height="160" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JGuilhermeSneto&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=JGuilhermeSneto&theme=tokyonight&date_format=j%20M%5B%20Y%5D&cache_seconds=0" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JGuilhermeSneto&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JGuilhermeSneto&theme=tokyonight&row=1&column=7" alt="Troféus GitHub"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGuilhermeSneto&theme=tokyo-night" alt="Gráfico de atividade"/>
 </p>
+
 
 ---
 
