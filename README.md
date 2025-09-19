@@ -93,8 +93,6 @@
   <img src="https://streak-stats.demolab.com?user=JGuilhermeSneto&theme=tokyonight&date_format=j%20M%5B%20Y%5D&cache_seconds=3600" height="165" alt="GitHub Streak"/>
 </p>
 
-<details>
-<summary>📈 Ver gráfico de atividade</summary>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGuilhermeSneto&theme=tokyo-night" alt="Gráfico de atividade"/>
 </p>
