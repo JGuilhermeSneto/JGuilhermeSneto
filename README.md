@@ -85,18 +85,33 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&locale=pt-br" height="160" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeSneto&theme=tokyonight&layout=compact&langs_count=10" height="160" alt="Linguagens mais usadas"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+    height="160" 
+    alt="Estatísticas do GitHub"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeSneto&theme=tokyonight&layout=compact&langs_count=10&hide_border=false" 
+    height="160" 
+    alt="Linguagens mais usadas"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JGuilhermeSneto&theme=tokyonight&date_format=j%20M%5B%20Y%5D&cache_seconds=3600" height="165" alt="GitHub Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=JGuilhermeSneto&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=16FBFF&currStreakLabel=16FBFF&sideNums=16FBFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" 
+    alt="GitHub Streak" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGuilhermeSneto&theme=tokyo-night" alt="Gráfico de atividade"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JGuilhermeSneto&theme=tokyo-night&hide_border=false" 
+    alt="Gráfico de atividade"
+  />
 </p>
-</details>
 
 ---
 
