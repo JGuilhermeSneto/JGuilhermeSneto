@@ -57,6 +57,8 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
     <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/><br>Spring Boot</td>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/><br>Docker</td>
+    <!-- 👇 Novo item Bootstrap -->
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br>Bootstrap</td>
   </tr>
 </table>
 
