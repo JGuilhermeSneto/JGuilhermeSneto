@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/BAnner.gif" alt="Banner pixel art principal" width="100%"/>
-</p>
-
 <h1 align="center">👾 José Guilherme | Full Stack Developer</h1>
 
 <p align="center">
@@ -14,17 +10,10 @@
 
 - 🧑‍💻 **Nome:** José Guilherme da S. Neto  
 - 🏫 **Formação:** IFRN – Campus Canguaretama  
-- ⚡ **Stack:** Desenvolvedor **Full Stack**
+- ⚡ **Stack:** Desenvolvedor **Full Stack**  
 
 ---
 
-##
-
-<p align="center">
-  <img src="assets/Gif_capibara.jpg" alt="Capivara pixel art — mascote do perfil" width="220"/>
-</p>
-
----
 
 ## 💻 **Skills**
 
@@ -32,33 +21,32 @@
   <tr>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br>Python</td>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br>JavaScript</td>
-    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/><br>C++</td>
-    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br>Java</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50"/><br>C#</td>
   </tr>
   <tr>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/><br>Django</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/><br>Spring Boot</td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/><br>.NET</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br>Bootstrap</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br>MySQL</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/><br>SQLite</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/><br>Docker</td>
+  </tr>
+  <tr>
     <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/><br>GitHub</td>
     <td align="center" width="100"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50"/><br>Git</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
     <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VSCode</td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/><br>SQLite</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/><br>Java</td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
-    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/><br>C#</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/><br>.NET</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
-    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/><br>Spring Boot</td>
-    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/><br>Docker</td>
-    <!-- 👇 Novo item Bootstrap -->
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br>Bootstrap</td>
+    <td align="center" width="100"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/><br>C++</td>
   </tr>
 </table>
 
@@ -75,49 +63,33 @@
 
 ## 📂 Repositórios em Destaque
 
-| Projeto               | Descrição                                      |
-|-----------------------|-----------------------------------------------|
-| **Repo_Java**         | Exercícios e estudos em Java                 |
-| **BibliotecaPessoal** | Sistema de biblioteca em Python              |
-| **BootCamp_C#**       | Projetos desenvolvidos em C# e .NET          |
-| **Projeto integrador** | Projeto integrador do 4° período            |
+| Projeto | Descrição |
+|----------|------------|
+| **Repo_Java** | Exercícios e estudos em Java |
+| **BibliotecaPessoal** | Sistema de biblioteca em Python |
+| **BootCamp_C#** | Projetos desenvolvidos em C# e .NET |
+| **Projeto Integrador** | Projeto integrador do 4° período |
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
-    height="160" 
-    alt="Estatísticas do GitHub"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeSneto&theme=tokyonight&layout=compact&langs_count=10&hide_border=false" 
-    height="160" 
-    alt="Linguagens mais usadas"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeSneto&theme=tokyonight&layout=compact&langs_count=10&hide_border=false" height="160" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=JGuilhermeSneto&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=16FBFF&currStreakLabel=16FBFF&sideNums=16FBFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" 
-    alt="GitHub Streak" 
-    height="165"
-  />
+  <img src="https://streak-stats.demolab.com?user=JGuilhermeSneto&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=16FBFF&currStreakLabel=16FBFF&sideNums=16FBFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JGuilhermeSneto&theme=tokyo-night&hide_border=false" 
-    alt="Gráfico de atividade"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGuilhermeSneto&theme=tokyo-night&hide_border=false" alt="Gráfico de atividade"/>
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Onde Me Encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
