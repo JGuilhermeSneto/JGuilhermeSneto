@@ -54,7 +54,7 @@ Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever 
 | Projeto | Descrição |
 |--------|-----------|
 | **Repo_Java** | Exercícios e estudos focados em Java |
-| **Projeto Integrador** | Projeto integrador do 4° período do curso |
+| **SIGE** | Projeto integrador do 4° período do curso |
 
 ---
 
