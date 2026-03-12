@@ -9,7 +9,7 @@
 ## 🎮 Sobre Mim
 
 - 🧑‍💻 **Nome:** José Guilherme da S. Neto  
-- 🏫 **Formação:** IFRN – Campus Canguaretama  
+- 🏫 **Formação:** IFRN – Campus Canguaretama | Tecnologias para Sistemas da Internet
 - ⚡ **Stack:** Desenvolvedor **Full Stack**  
 
 Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever código limpo, performático e bem estruturado. Estou em constante evolução, aprendendo novas tecnologias e boas práticas.
