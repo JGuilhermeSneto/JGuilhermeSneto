@@ -60,12 +60,17 @@ Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever 
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JGuilhermeSneto&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JGuilhermeSneto&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JGuilhermeSneto&theme=radical) |
+|:-:|:-:|:-:|
+
 | ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JGuilhermeSneto&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=JGuilhermeSneto&theme=tokyonight&hide_border=false) |
 |:-:|:-:|
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
