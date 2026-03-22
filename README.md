@@ -93,6 +93,7 @@ Atualmente sou estudante do 5° período do curso de Sistemas para Internet. Com
 </p>
 
 ---
+lll
 
 <p align="center">
   <img src="assets/GIF.gif" alt="GIF de animação estilo Snake retro" width="80%"/>
