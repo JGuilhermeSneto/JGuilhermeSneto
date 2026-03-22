@@ -72,16 +72,6 @@ Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever 
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeSneto&theme=tokyonight&layout=compact&langs_count=8" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGuilhermeSneto&theme=tokyo-night"/>
-</p>
-
-</div>
 
 ---
 
