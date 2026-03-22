@@ -1,3 +1,5 @@
+
+
 <h1 align="center">👾 José Guilherme | Full Stack Developer</h1>
 
 <p align="center">
@@ -60,18 +62,21 @@ Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever 
 
 ## 📊 Estatísticas GitHub
 
+<div align="center">
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JGuilhermeSneto&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=JGuilhermeSneto&theme=tokyonight&hide_border=false) |
+|:-:|:-:|
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGuilhermeSneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeSneto&theme=tokyonight&layout=compact&langs_count=8" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JGuilhermeSneto&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGuilhermeSneto&theme=tokyo-night"/>
 </p>
+
+</div>
 
 ---
 
