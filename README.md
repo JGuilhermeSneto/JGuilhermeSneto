@@ -12,7 +12,7 @@
 - 🏫 **Formação:** IFRN – Campus Canguaretama | Tecnologias para Sistemas da Internet
 - ⚡ **Stack:** Desenvolvedor **Full Stack**  
 
-Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever código limpo, performático e bem estruturado. Estou em constante evolução, aprendendo novas tecnologias e boas práticas.
+Atualmente sou estudante do 5° período do curso de Sistemas para Internet. Com habilidades em ``JAVA`` ,``PYTHON``, ``DJANGO``, ``MySQL``  
 
 ---
 
