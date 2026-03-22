@@ -51,14 +51,18 @@ Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever 
 
 ---
 
-## 📂 Repositórios em Destaque
+## ⭐ Repositórios destaques
 
-| Projeto | Descrição |
-|--------|-----------|
-| **Repo_Java** | Exercícios e estudos focados em Java |
-| **SIGE** | Projeto integrador do 4° período do curso |
+<!--TOP_REPOS_START-->
+<div align="center">
 
----
+| 📦 Repositório | ⭐ Stars | 🍴 Forks | 🗣️ Linguagem |
+|:---|:---:|:---:|:---:|
+| [**Repo_Java**](https://github.com/JGuilhermeSneto/Repo_Java) <br/> <sub>Exercícios e estudos focados em Java</sub> | ⭐ — | 🍴 — | `Java` |
+| [**SIGE**](https://github.com/JGuilhermeSneto/SIGE) <br/> <sub>Projeto integrador do 4° período do curso</sub> | ⭐ — | 🍴 — | `Python` |
+
+</div>
+<!--TOP_REPOS_END-->
 
 ## 📊 GitHub Stats
 
