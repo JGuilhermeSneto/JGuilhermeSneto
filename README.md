@@ -1,5 +1,3 @@
-
-
 <h1 align="center">👾 José Guilherme | Full Stack Developer</h1>
 
 <p align="center">
@@ -51,7 +49,7 @@ Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever 
 
 ---
 
-## ⭐ Repositórios destaques
+## ⭐ Repositórios Destaques
 
 <!--TOP_REPOS_START-->
 <div align="center">
@@ -64,6 +62,8 @@ Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever 
 </div>
 <!--TOP_REPOS_END-->
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -75,7 +75,6 @@ Sou apaixonado por desenvolvimento backend e frontend, sempre buscando escrever 
 |:-:|:-:|
 
 </div>
-
 
 ---
 
